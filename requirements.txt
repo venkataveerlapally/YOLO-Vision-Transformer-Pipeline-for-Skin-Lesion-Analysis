@@ -1,0 +1,9 @@
+torch>=1.13
+torchvision
+transformers>=4.30
+datasets
+tqdm
+scikit-learn
+pillow
+numpy
+pandas
